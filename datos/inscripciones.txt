@@ -1,0 +1,12 @@
+1|1|Ana Gómez|10010001|Inscrito|2026-11-09T09:00|
+2|1|Luis Pérez|10010002|Inscrito|2026-11-09T09:05|
+3|1|Marta Ruiz|10010003|Inscrito|2026-11-09T09:10|
+4|1|Carlos Díaz|10010004|En espera|2026-11-09T09:15|
+5|1|Diana Mora|10010005|En espera|2026-11-09T09:20|
+6|2|Jorge Silva|10010006|Inscrito|2026-11-09T10:00|
+7|2|Paula Rojas|10010007|Inscrito|2026-11-08T08:00|2026-11-09T18:30
+8|4|Elena Castro|10010008|Inscrito|2026-10-05T09:00|
+9|4|Andrés Vega|10010009|Inscrito|2026-10-05T09:05|
+10|4|Sofía León|10010010|Inscrito|2026-10-05T09:10|
+11|3|Camilo Torres|10010011|Inscrito|2026-11-09T11:00|
+12|3|Laura Mejía|10010012|Inscrito|2026-11-09T11:10|

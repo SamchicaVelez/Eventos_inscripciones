@@ -1,0 +1,5 @@
+1|Taller de Java|Taller|2026-12-01T09:00|Sala 101|3|Introducción a la programación en Java. Cupo pequeño: sirve para probar la lista de espera.
+2|Conferencia de datos|Conferencia|2026-12-10T14:00|Auditorio principal|50|Usos del análisis de datos en las empresas.
+3|Taller de fotografía|Taller|2026-12-15T10:00|Sala 203|15|Técnicas básicas de fotografía digital.
+4|Conferencia de innovación|Conferencia|2026-10-20T09:00|Auditorio principal|40|Tendencias de innovación en la región. Evento ya finalizado, con asistencia registrada.
+5|Taller de hojas de cálculo|Taller|2027-01-20T08:00|Sala 305|10|Fórmulas y tablas dinámicas. Sin agenda ni inscritos: sirve para probar desde cero.
