@@ -1,8 +1,7 @@
 <!-- Autor: Samuel Chica Vélez — ID: 000279346 -->
 # Capturas de pantalla para el README
 
-Con la aplicación corriendo (`./mvnw spring-boot:run`), toma estas siete capturas
-y guárdalas en esta carpeta con **exactamente** estos nombres. El README ya las enlaza.
+
 
 | Archivo | Qué mostrar |
 |---|---|
