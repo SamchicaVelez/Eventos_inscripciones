@@ -16,3 +16,7 @@ y guárdalas en esta carpeta con **exactamente** estos nombres. El README ya las
 
 Consejo: toma al menos una captura en modo celular (F12 → ícono de dispositivo móvil)
 y añádela al README como evidencia de que la aplicación funciona en pantalla pequeña.
+
+<img width="1600" height="827" alt="WhatsApp Image 2026-11-10 at 11 01 48 PM" src="https://github.com/user-attachments/assets/ef86df11-3cf0-4798-81c8-010685f0c8de" />
+<img width="1600" height="785" alt="WhatsApp Image 2026-11-10 at 11 02 10 PM" src="https://github.com/user-attachments/assets/196063db-9ed0-4711-bc1c-3da7cd4eb899" />
+
